@@ -15,10 +15,10 @@ const bmiJohn = johnWeightStart / johnHeightStart ** 2;
 console.log("John's starting BMI = " + bmiJohn);
 
 const bmiMarkFinal = markWeightEnd / markHeightEnd ** 2;
-console.log("Mark's Final BMI = " + bmiMarkFinal);
+console.log(`Mark's Final BMI = " + ${bmiMarkFinal}`);
 
 const bmiJohnFinal = johnWeightEnd / johnHeightEnd ** 2;
-console.log("John's starting BMI = " + bmiJohnFinal);
+console.log(`John's starting BMI = ${bmiJohnFinal}`);
 
 if (bmiJohn > bmiMark) {
   console.log("John's starting BMI was higher than Mark's");
