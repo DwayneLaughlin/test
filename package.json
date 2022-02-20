@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is just a repo to work on smaller challenges (mostly js). A preliminary testing spot for practice purposes.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DwayneLaughlin/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DwayneLaughlin/test/issues"
+  },
+  "homepage": "https://github.com/DwayneLaughlin/test#readme"
+}
