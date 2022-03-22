@@ -13,7 +13,7 @@
         <input type="text" name="name" placeholder="Name">
         <input type="text" name="email" placeholder="Email">
         <textarea name="message" placeholder="Message"></textarea>
-        <button type="submit">submit</button>
+        <button type="submit" name="submit">submit</button>
        
 
     </form>
